@@ -15,4 +15,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Clerans&icon=0&color=0)](https://visitcount.itsvg.in)
 
+📊 GitHub Stats:
+
+<!-- IMPORTANT: Replace "YOUR-USERNAME-HERE" with your actual GitHub username in the line below -->
+
+<div align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR-Clerans%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue" alt="GitHub Stats" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
