@@ -1,70 +1,23 @@
-👋 Hi, I'm Michael Clerans!
+# 💫 About Me:
+🌐 Full-Stack Developer in Progress<br>🎓 BIT (Hons) in Networking & Mobile Computing | 🎨 Passionate about crafting intuitive UI/UX<br>💻 Skills: HTML, CSS, JavaScript | 🚀 Building the foundation for a future-ready career!<br>🌟 Let's code, create, and innovate!
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DFull-Stack%2520Developer%26fontSize%3D70%26animation%3DfadeIn" />
-</p>
 
-💫 About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/michaelclerans) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michelclerans) 
 
-🎓 BIT (Hons) in Networking & Mobile Computing student.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Clerans&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Clerans&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clerans&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🌐 Full-Stack Developer in Progress with a passion for crafting intuitive UI/UX.
-
-🎨 Enthusiastic about bridging the gap between robust networking and beautiful design.
-
-🚀 Always building, learning, and looking for new ways to innovate.
-
-💻 My Tech Stack
-
-Category
-
-Tools & Technologies
-
-Languages
+---
+[![](https://visitcount.itsvg.in/api?id=Clerans&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 
 
 
-Frontend
+this is my current github profile README.md
 
-
-
-Backend & Cloud
-
-
-
-Databases
-
-
-
-Design Suite
-
-
-
-📊 GitHub Analytics
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DClerans%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Clerans's GitHub stats" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DClerans%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Langs" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DClerans%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
-</p>
-
-🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/michelclerans">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://facebook.com/michaelclerans">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-%25231877F2.svg%3Fstyle%3Dfor-the-badge%26logo%3DFacebook%26logoColor%3Dwhite" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Clerans&icon=0&color=0" alt="Visit Count" />
-</p>
+i need to update this to  new design so give me the new 
