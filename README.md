@@ -75,12 +75,13 @@ Web app using APIs, charts, and dynamic data visualization
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clerans&show_icons=true&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clerans&show_icons=true&theme=dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clerans&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clerans&theme=dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clerans&layout=compact&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clerans&layout=compact&theme=dark" />
 </p>
+
 
 ---
 
