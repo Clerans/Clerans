@@ -81,6 +81,7 @@ Web app using APIs, charts, and dynamic data visualization
 ![Repo Size](https://img.shields.io/github/repo-size/Clerans/Clerans)
 ![Stars](https://img.shields.io/github/stars/Clerans?style=social)
 
+
 ---
 
 ## 📫 Let’s Connect
