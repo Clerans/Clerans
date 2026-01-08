@@ -1,10 +1,13 @@
 <h1 align="center">Hi, I'm Clerans 👋</h1>
-<h3 align="center">Mobile & Frontend Developer | Flutter • React Native • React</h3>
+<h3 align="center">
+Full-Stack Mobile & Web Developer <br/>
+Flutter • React Native • React • Backend APIs
+</h3>
 
 <p align="center">
   🎓 BIT (Hons) in Networking & Mobile Computing <br/>
-  💡 Passionate about building scalable mobile & web applications <br/>
-  🎨 UI/UX-focused • Performance-driven • Clean code enthusiast
+  💡 Building scalable mobile & web applications end-to-end <br/>
+  🎨 UI/UX aware • ⚙️ Backend capable • 🚀 Production-ready mindset
 </p>
 
 <p align="center">
@@ -84,10 +87,3 @@ Web app using APIs, charts, and dynamic data visualization
 - 💼 LinkedIn: https://linkedin.com/in/michelclerans  
 - 📧 Email: michaelclerans01@gmail.com  
 
-<p align="center">
-  🚀 Open to internships & junior developer opportunities
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Clerans&icon=0&color=0"/>
-</p>
