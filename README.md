@@ -72,16 +72,14 @@ Web app using APIs, charts, and dynamic data visualization
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clerans&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=Clerans&color=blue)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Clerans&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clerans&layout=compact&theme=dark)
-
-
-
+![Commit Activity](https://img.shields.io/github/commit-activity/y/Clerans/Clerans)
+![Last Commit](https://img.shields.io/github/last-commit/Clerans/Clerans)
+![Repo Size](https://img.shields.io/github/repo-size/Clerans/Clerans)
+![Stars](https://img.shields.io/github/stars/Clerans?style=social)
 
 ---
 
