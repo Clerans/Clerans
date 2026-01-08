@@ -74,6 +74,11 @@ Web app using APIs, charts, and dynamic data visualization
 
 ## 📊 GitHub Activity
 
+![Commits](https://img.shields.io/github/commit-activity/y/Clerans/Clerans)
+![Last Commit](https://img.shields.io/github/last-commit/Clerans/Clerans)
+![Repo Size](https://img.shields.io/github/repo-size/Clerans/Clerans)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Clerans&color=blue)
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/Clerans/Clerans)
