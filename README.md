@@ -14,10 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Clerans&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-
-
-
-this is my current github profile README.md
-
-i need to update this to  new design so give me the new 
