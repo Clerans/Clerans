@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Clerans 👋</h1>
 <h3 align="center">
 Full-Stack Mobile & Web Developer <br/>
@@ -71,7 +72,6 @@ Web app using APIs, charts, and dynamic data visualization
 > 👉 More projects coming soon…
 
 ---
-
 
 ## 📊 GitHub Stats
 
