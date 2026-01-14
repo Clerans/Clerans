@@ -12,6 +12,10 @@ Flutter • React Native • React • Backend APIs
 </p>
 
 <p align="center">
+  
+  <a href="https://michael-clerans-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=vercel"/>
+</a>
   <a href="https://linkedin.com/in/michelclerans">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin"/>
   </a>
