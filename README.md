@@ -89,6 +89,7 @@ Web app using APIs, charts, and dynamic data visualization
 
 ---
 
+
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/michelclerans  
