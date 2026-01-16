@@ -94,3 +94,4 @@ Web app using APIs, charts, and dynamic data visualization
 
 - 💼 LinkedIn: https://linkedin.com/in/michelclerans  
 - 📧 Email: michaelclerans01@gmail.com  
+
