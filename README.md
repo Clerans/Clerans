@@ -77,6 +77,7 @@ Web app using APIs, charts, and dynamic data visualization
 
 ---
 
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clerans&theme=dark)
@@ -94,6 +95,5 @@ Web app using APIs, charts, and dynamic data visualization
 
 - 💼 LinkedIn: https://linkedin.com/in/michelclerans  
 - 📧 Email: michaelclerans01@gmail.com  
-
 
 
